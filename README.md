@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a financial app.
-- 🌱 I’m currently learning Xamarin and Docker.
+- 🌱 I’m currently learning Godot Engine.
 - 👯 I’m looking to collaborate on game development projects.
 - 💬 Ask me about anything, i'll be glad to help.
 - 📫 How to reach me: allanschramm@outlook.com
